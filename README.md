@@ -43,7 +43,3 @@ This is a front-end-only demo:
 - The newsletter subscription only validates that the email field is non-empty. It does not send data anywhere.
 
 A backend would be needed to persist carts, process orders, or store subscriptions.
-
-## License
-
-Not currently specified.
